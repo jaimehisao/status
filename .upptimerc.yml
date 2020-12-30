@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Zeus API
+    url: $ZEUS_API
   - name: Secret Site
     url: $SECRET_SITE
 
