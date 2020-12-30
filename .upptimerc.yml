@@ -22,7 +22,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Hisao.org Status Page
-  introTitle: "**Hisao.org**"
+  introTitle: "**Hisao.org & Services**"
   introMessage: Status page for Hisao's Services
   navbar:
     - title: Status
