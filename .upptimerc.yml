@@ -4,16 +4,8 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Zeus API
     url: $ZEUS_API
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
