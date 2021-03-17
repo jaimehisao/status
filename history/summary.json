@@ -4,17 +4,17 @@
     "url": "$ZEUS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zeus-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 1375,
-    "timeWeek": 1485,
-    "timeMonth": 1485,
-    "timeYear": 1014,
+    "time": 1123,
+    "timeDay": 2945,
+    "timeWeek": 1990,
+    "timeMonth": 1990,
+    "timeYear": 1123,
     "dailyMinutesDown": {}
   }
 ]
